@@ -1,2 +1,2 @@
 # WeatherApp
-Weather Application that give the weather of a various locations across the globe
+A mini project that informs residents in different countries the weather forcast of the day using the OpenWeather API.
