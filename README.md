@@ -1,2 +1,2 @@
 # WeatherApp
-A mini project that informs residents in different countries the weather forcast of the day using the OpenWeather API.
+This mini project utilizes the OpenWeather API to provide daily weather forecasts to residents in various countries.
